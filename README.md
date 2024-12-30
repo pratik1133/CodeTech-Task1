@@ -20,13 +20,13 @@ This project is a simple and user-friendly To-Do List application that allows us
 
 <h2>Features</h2>
 
-Add Tasks: Users can add new tasks with a description and a unique identifier.
+**Add Tasks**: Users can add new tasks with a description and a unique identifier.
 
-Edit Tasks: Users can update the text of existing tasks.
+**Edit Tasks**: Users can update the text of existing tasks.
 
-Delete Tasks: Tasks can be removed from the list.
+**Delete Tasks**: Tasks can be removed from the list.
 
-Local Storage: All tasks are saved to local storage, so they persist between sessions.
+**Local Storage**: All tasks are saved to local storage, so they persist between sessions.
 
 <h2>Technologies Used</h2>
 
