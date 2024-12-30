@@ -10,23 +10,23 @@
 
 <h2>Overview of the Project</h2>
 
-<h1>Project: TO-DO LIST APPLICATION WITH LOCAL STORAGE</h1>
+<h1>Project: INTERACTIVE QUIZ APPLICATION</h1>
 
-<img width="917" alt="Screenshot 2024-12-30 224849" src="https://github.com/user-attachments/assets/cff85365-2d15-4501-b891-e8d4650526fc" />
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/d6c0b027-14bd-4d31-8348-0bfc3274d3fe" />
 
 <h2>Objective</h2>
 
-This project is a simple and user-friendly To-Do List application that allows users to efficiently manage their tasks. It provides a clean interface where users can add, edit, mark as complete, and delete tasks. The application stores tasks in the browser's local storage, ensuring that the tasks persist even after the page is refreshed or the browser is closed.
+The Interactive Quiz Application is a web-based platform that allows users to participate in multiple-choice quizzes. This application features a dynamic user interface, providing users with an engaging and interactive experience. Users can answer questions, see the correct answers.
 
 <h2>Features</h2>
 
-**Add Tasks**: Users can add new tasks with a description and a unique identifier.
+**Multiple Question Categories**: Users can select quizzes from different categories, such as general knowledge, science, or history.
 
-**Edit Tasks**: Users can update the text of existing tasks.
+**Interactive UI**: The application offers an interactive interface, showing questions and multiple-choice options for each one.
 
-**Delete Tasks**: Tasks can be removed from the list.
+**Results Summary**: After completing the quiz, users receive a summary of their results with the number of correct and incorrect answers.
 
-**Local Storage**: All tasks are saved to local storage, so they persist between sessions.
+**Local Storage**: Scores and user progress can be saved in local storage for future reference.
 
 <h2>Technologies Used</h2>
 
