@@ -1,7 +1,11 @@
 Name:  Pratik Sureshkumar Gupta
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DGV
+
 Domain: Frontend Web Development
+
 Duration: December 12th, 2024 to January 12th, 2025
 
 Overview of the Project
