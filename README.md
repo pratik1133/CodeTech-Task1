@@ -1,13 +1,12 @@
-Name: KUMAR MAKKALA
+Name:  Pratik Sureshkumar Gupta
 Company: CODTECH IT SOLUTIONS
-ID: CT08WD39
-Domain: Data Analytics
-Duration: May to June 2024
-Mentor: SRAVANI GOUNI
+ID: CT08DGV
+Domain: Frontend Web Development
+Duration: December 12th, 2024 to January 12th, 2025
 
 Overview of the Project
-Project: Exploratory Data Analysis (EDA) on World Population Dataset
-Screenshot 2024-06-02 141419
+Project: TO-DO LIST APPLICATION WITH LOCAL STORAGE
+<img width="917" alt="Screenshot 2024-12-30 224849" src="https://github.com/user-attachments/assets/cff85365-2d15-4501-b891-e8d4650526fc" />
 
 Objective
 The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset containing population data from 1970 to 2022 for countries around the world. The aim is to uncover insights into population trends, distributions, correlations, and outliers through visualizations.
