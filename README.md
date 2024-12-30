@@ -8,7 +8,7 @@
 
 **Duration**: December 12th, 2024 to January 12th, 2025
 
-Overview of the Project
+<h1>**Overview of the Project**</h1>
 
 Project: TO-DO LIST APPLICATION WITH LOCAL STORAGE
 
